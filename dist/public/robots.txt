@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /dev88
+Disallow: /api/
+
+Sitemap: https://flapfutures.com/sitemap.xml
